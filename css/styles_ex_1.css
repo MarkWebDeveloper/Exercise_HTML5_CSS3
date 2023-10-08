@@ -40,9 +40,13 @@ section {
     width: 700px;
     height: 290px;
     margin: 10px auto 10px auto;
-    background-color: beige;
 }
 
 .text {
     line-height: 20px;
+}
+
+.img_logos {
+    float: left;
+    height: 225px;
 }
