@@ -124,3 +124,80 @@ p {
     margin: 40px 0 40px 0;
 }
 
+#letters_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1230px;
+    height: 150px;
+    margin: 0 auto 0 auto;
+}
+
+span {
+    font-size: 60px;
+    padding: 7px;
+}
+
+#black_word {
+    color: black;
+}
+
+#teal_word {
+    color: teal;
+}
+
+#blue_word {
+    color: blue;
+}
+
+#navy_word {
+    color: navy;
+}
+
+#lime_word {
+    color: lime;
+}
+
+#white_word {
+    color: white;
+}
+
+#purple_word {
+    color: purple;
+}
+
+#yellow_word {
+    color: yellow;
+}
+
+#olive_word {
+    color: olive;
+}
+
+#red_word {
+    color: red;
+}
+
+#marron_word {
+    color: marron;
+}
+
+#grey_word {
+    color: grey;
+}
+
+#fuchsia_word {
+    color: fuchsia;
+}
+
+#green_word {
+    color: green;
+}
+
+#aqua_word {
+    color: aqua;
+}
+
+#silver_word {
+    color: silver;
+}
