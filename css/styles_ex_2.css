@@ -61,6 +61,13 @@ p {
     align-items: center;
 }
 
+.giant_box {
+    height: 25%;
+    width: 46%;
+    display: flex;
+    align-items: center;
+}
+
 #black_box {
     background-color: black;
 }
@@ -83,4 +90,32 @@ p {
 
 #white_box {
     background-color: white;
+}
+
+#purple_box {
+    background-color: purple;
+}
+
+#yellow_box {
+    background-color: yellow;
+}
+
+#olive_box {
+    background-color: olive;
+}
+
+#red_box {
+    background-color: red;
+}
+
+#grey_box {
+    background-color: grey;
+}
+
+#fuchsia_box {
+    background-color: fuchsia;
+}
+
+#green_box {
+    background-color: green;
 }
