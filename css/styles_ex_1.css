@@ -18,12 +18,16 @@ h1 {
     text-align: center;
 }
 
-.subtitle_div {
+section {
     width: 870px;
+    height: 370px;
+    margin: auto;
+}
+
+.subtitle_div {
     height: 62px;
     line-height: 62px;
     background-color: grey;
-    margin: auto;
 }
 
 .subtitle_h2 {
