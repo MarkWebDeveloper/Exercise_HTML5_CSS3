@@ -1,1 +1,19 @@
 @import url(/css/reset-style.css);
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: 870px;
+    height: 110px;
+    line-height: 110px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
