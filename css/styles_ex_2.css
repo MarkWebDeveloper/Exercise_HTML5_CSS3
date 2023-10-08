@@ -20,7 +20,7 @@ h1 {
     width: 1040px;
     height: 416px;
     margin: 0 auto 0 auto;
-    background-color: white;
+    background-color: wheat;
 }
 
 #boxes_subtitle_div {
@@ -42,7 +42,21 @@ p {
 
 .medium_box {
     height: 25%;
-    width: 17%;
+    width: 18%;
+    display: flex;
+    align-items: center;
+}
+
+.small_box {
+    height: 25%;
+    width: 13%;
+    display: flex;
+    align-items: center;
+}
+
+.big_box {
+    height: 25%;
+    width: 20%;
     display: flex;
     align-items: center;
 }
@@ -57,4 +71,16 @@ p {
 
 #blue_box {
     background-color: blue;
+}
+
+#navy_box {
+    background-color: navy;
+}
+
+#lime_box {
+    background-color: lime;
+}
+
+#white_box {
+    background-color: white;
 }
