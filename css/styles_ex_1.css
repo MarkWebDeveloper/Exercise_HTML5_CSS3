@@ -18,3 +18,16 @@ h1 {
     text-align: center;
 }
 
+.subtitle_div {
+    width: 870px;
+    height: 62px;
+    line-height: 62px;
+    background-color: grey;
+    margin: auto;
+}
+
+.subtitle_h2 {
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 5px;
+}
